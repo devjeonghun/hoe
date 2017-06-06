@@ -327,6 +327,6 @@ function chEn(){
     $("#banner h2").html("Jo JeongHun");
     $("#banner p").html("Heaven helps those who help themselves.");
     $("#one h2").html("About");
-    $("#one .1").html("2015&ensp;&ensp;SIST education<br/>                                    2015&ensp;&ensp;Univ graduation<br/>                                    2010&ensp;&ensp;Republic of Korea Army<br/>                                    2009&ensp;&ensp;Gyeongsang National Univ. Law<br/>                                    1991&ensp;&ensp;Birth");
+    $("#one .1").html("2016&ensp;&ensp;INSIDEINFO<br/>2015&ensp;&ensp;ACEME<br/>2015&ensp;&ensp;SIST education<br/>                                    2015&ensp;&ensp;Univ graduation<br/>                                    2010&ensp;&ensp;Republic of Korea Army<br/>                                    2009&ensp;&ensp;Gyeongsang National Univ. Law<br/>                                    1991&ensp;&ensp;Birth");
     $("#one .2").html("Name&ensp;&ensp;JO JEONGHUN<br/>                                    Birth&ensp;&ensp;1991.02.04<br/>                                    E-mail&ensp;&ensp;<a href='mailto:jeonghun0204@gmail.com'>jeonghun0204@gmail.com</a><br/>                                    GitHub&ensp;&ensp;                                        <a href='https://github.com/devjeonghun'>github.com/devjeonghun</a><br/>                                    Blog&ensp;&ensp;<a href='http://realblog.tistory.com'>realblog.tistory.com</a>");
 }
