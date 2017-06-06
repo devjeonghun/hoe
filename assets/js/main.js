@@ -320,7 +320,7 @@ function chKor(){
     $("#banner h2").html("조 정훈");
     $("#banner p").html("하늘은 스스로 돕는 자를 돕는다.");
     $("#one h2").html("소개");
-    $("#one .1").html("2015&ensp;&ensp;쌍용교육센터<br/>2015&ensp;&ensp;대학 졸업<br/>2010&ensp;&ensp;육군 복무<br/>2009&ensp;&ensp;국립경상대학교 법학과 입학 <br/>1991&ensp;&ensp;출생 ");
+    $("#one .1").html("2016&ensp;&ensp;INSIDEINFO<br/>2015&ensp;&ensp;ACEME<br/>2015&ensp;&ensp;쌍용교육센터<br/>2015&ensp;&ensp;대학 졸업<br/>2010&ensp;&ensp;육군 복무<br/>2009&ensp;&ensp;국립경상대학교 법학과 입학 <br/>1991&ensp;&ensp;출생 ");
     $("#one .2").html("이름&ensp;&ensp;조 정훈<br/>                                    생일&ensp;&ensp;1991.02.04<br/>                                   이메일&ensp;&ensp;<a href='mailto:jeonghun0204@gmail.com'>jeonghun0204@gmail.com</a><br/>                               깃허브&ensp;&ensp;<a href='https://github.com/devjeonghun'>github.com/                                        devjeonghun</a><br/>                                    블로그&ensp;&ensp;<a href='http://realblog.tistory.com'>realblog.tistory.com</a>");
 }
 function chEn(){        
