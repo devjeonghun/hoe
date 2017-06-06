@@ -320,13 +320,13 @@ function chKor(){
     $("#banner h2").html("조 정훈");
     $("#banner p").html("하늘은 스스로 돕는 자를 돕는다.");
     $("#one h2").html("소개");
-    $("#one .1").html("2016&ensp;&ensp;INSIDEINFO<br/>2015&ensp;&ensp;ACEME<br/>2015&ensp;&ensp;쌍용교육센터<br/>2015&ensp;&ensp;대학 졸업<br/>2010&ensp;&ensp;육군 복무<br/>2009&ensp;&ensp;국립경상대학교 법학과 입학 <br/>1991&ensp;&ensp;출생 ");
+    $("#one .1").html("2016&ensp;&ensp;인사이드정보<br/>2015&ensp;&ensp;에이스엠이<br/>2015&ensp;&ensp;쌍용교육센터<br/>2015&ensp;&ensp;대학 졸업<br/>2010&ensp;&ensp;육군 복무<br/>2009&ensp;&ensp;국립경상대학교 법학과 입학 <br/>1991&ensp;&ensp;출생 ");
     $("#one .2").html("이름&ensp;&ensp;조 정훈<br/>                                    생일&ensp;&ensp;1991.02.04<br/>                                   이메일&ensp;&ensp;<a href='mailto:jeonghun0204@gmail.com'>jeonghun0204@gmail.com</a><br/>                               깃허브&ensp;&ensp;<a href='https://github.com/devjeonghun'>github.com/                                        devjeonghun</a><br/>                                    블로그&ensp;&ensp;<a href='http://realblog.tistory.com'>realblog.tistory.com</a>");
 }
 function chEn(){        
     $("#banner h2").html("Jo JeongHun");
     $("#banner p").html("Heaven helps those who help themselves.");
     $("#one h2").html("About");
-    $("#one .1").html("2016&ensp;&ensp;INSIDEINFO<br/>2015&ensp;&ensp;ACEME<br/>2015&ensp;&ensp;SIST education<br/>                                    2015&ensp;&ensp;Univ graduation<br/>                                    2010&ensp;&ensp;Republic of Korea Army<br/>                                    2009&ensp;&ensp;Gyeongsang National Univ. Law<br/>                                    1991&ensp;&ensp;Birth");
-    $("#one .2").html("Name&ensp;&ensp;JO JEONGHUN<br/>                                    Birth&ensp;&ensp;1991.02.04<br/>                                    E-mail&ensp;&ensp;<a href='mailto:jeonghun0204@gmail.com'>jeonghun0204@gmail.com</a><br/>                                    GitHub&ensp;&ensp;                                        <a href='https://github.com/devjeonghun'>github.com/devjeonghun</a><br/>                                    Blog&ensp;&ensp;<a href='http://realblog.tistory.com'>realblog.tistory.com</a>");
+    $("#one .1").html("2016&ensp;&ensp;INSIDEINFO<br/>2015&ensp;&ensp;ACEME<br/>2015&ensp;&ensp;SIST education<br/>2015&ensp;&ensp;Univ graduation<br/>                                    2010&ensp;&ensp;Republic of Korea Army<br/>2009&ensp;&ensp;Gyeongsang National Univ. Law<br/>1991&ensp;&ensp;Birth");
+    $("#one .2").html("Name&ensp;&ensp;JO JEONGHUN<br/>Birth&ensp;&ensp;1991.02.04<br/>E-mail&ensp;&ensp;<a href='mailto:jeonghun0204@gmail.com'>jeonghun0204@gmail.com</a><br/>                                    GitHub&ensp;&ensp;<a href='https://github.com/devjeonghun'>github.com/devjeonghun</a><br/>Blog&ensp;&ensp;<a href='http://realblog.tistory.com'>realblog.tistory.com</a>");
 }
